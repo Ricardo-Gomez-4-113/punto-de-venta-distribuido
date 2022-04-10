@@ -1,1 +1,1 @@
-# punto-de-venta-distribuido-
+# punto-de-venta-distribuido
